@@ -1,4 +1,3 @@
-Hari ini dendi resmi menangis ngerjain pbd
 <!--🤔INTERESTTITLE-->
 
 <p align="center">
