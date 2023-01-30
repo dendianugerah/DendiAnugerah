@@ -1,2 +1,1 @@
-[![](https://visitcount.itsvg.in/api?id=DendiAnugerah&icon=4&color=2)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=DendiAnugerah&label=Profile%20Views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
